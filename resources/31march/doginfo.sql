@@ -21,8 +21,9 @@ SET time_zone = "+00:00";
 --
 -- Database: `csv_db`
 --
-CREATE DATABASE IF NOT EXISTS `dogs` DEFAULT CHARACTER SET utf8 COLLATE utf8_general_ci;
-USE `dogs`;
+CREATE DATABASE IF NOT EXISTS `dogmanagement` DEFAULT CHARACTER SET utf8 COLLATE utf8_general_ci;
+USE `dogmanagement`;
+
 
 -- --------------------------------------------------------
 
